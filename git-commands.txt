@@ -9,3 +9,11 @@ git config --global branch.autosetuprebase always
 
 git commit --interactive
 
+remove all chages from stagged file
+git checkout test02
+
+git branch
+git branch -a
+
+conflict occured
+
