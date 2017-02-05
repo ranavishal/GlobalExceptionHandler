@@ -15,4 +15,6 @@ git checkout test02
 git branch
 git branch -a
 
+here comes conflict
+
 
