@@ -1,1 +1,9 @@
 hello, I am born just now. And now I want to go in git.
+
+
+
+By default, Git runs the git fetch followed by the git merge command if you use the git pull command. You can configure git to use git rebase instead of git merge for the pull command via the following setting.
+
+# set default so that you avoid unnecessary commits
+git config --global branch.autosetuprebase always
+
